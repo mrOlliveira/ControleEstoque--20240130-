@@ -1,4 +1,4 @@
-````markdown
+
 # API de Estoque
 
 Este projeto implementa uma API de gestão de estoque usando **Spring Boot** e **JPA**. Ele permite o gerenciamento de **clientes**, **produtos**, **vendas**, **categorias** e **fornecedores**.
