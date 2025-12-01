@@ -1,5 +1,3 @@
-Claro! Aqui está o conteúdo transformado para um arquivo `README.md`:
-
 ````markdown
 # API de Estoque
 
@@ -207,7 +205,4 @@ Desenvolvido como projeto acadêmico para estudo de Spring Boot e JPA.
 
 🎯 A API estará pronta para uso após executar `mvn spring-boot:run` e acessar `http://localhost:8080`.
 
-```
 
-Este `README.md` contém todas as instruções necessárias para a configuração e uso da API, assim como exemplos de testes. Certifique-se de substituir as informações de usuário e senha conforme necessário.
-```
